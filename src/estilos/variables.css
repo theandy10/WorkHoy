@@ -1,0 +1,18 @@
+:root {
+  --font-heading: 'Poppins', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  --color-primary: #1F4E79;
+  --color-primary-light: #EAF1F8;
+  --color-accent: #FF8A00;
+  --color-text: #1A1A1A;
+  --color-text-secondary: #5C5C5C;
+  --color-success: #2E9E5B;
+  --color-danger: #D64545;
+
+  --color-fondo: #F5F7FB;
+  --color-borde: #E3E8F0;
+  --color-blanco: #FFFFFF;
+  --sombra-suave: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --radio-tarjeta: 14px;
+}
